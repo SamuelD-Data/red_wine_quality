@@ -1,6 +1,5 @@
 # Red Wine Quality Project
 ***
-***
 
 
 ## About this project
