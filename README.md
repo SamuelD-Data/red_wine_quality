@@ -3,24 +3,21 @@
 
 
 ## About this project
-***
 
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). [source](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
 
 ## Data Source
-***
+
 https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 
 ## Goal
-***
 
 - Create a model that can effectively predict the general quality of a wine (good or bad)
 
 
 ## Data Dictionary
-***
 
 alcohol - The percent of alcohol within the wine.
 
@@ -50,7 +47,6 @@ volatile acidity - The volatile acidity level of the wine. Too high of levels ca
 
 
 ## Project Plan
-***
 
 - Acquire
     - Download data as csv from Kaggle
@@ -89,7 +85,6 @@ Conclusion
 
 
 ## How to Reproduce
-***
 
 - Download the data (from [here](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) into your working directory.
 
@@ -101,7 +96,6 @@ Conclusion
 
 
 ## Conclusion
-***
 
 - Among all of the variables present in the data, some were found to correlate with varying degress of magnitude. The list below summarizes the more notable features (ie. features with correlation values greater than .10).
 
