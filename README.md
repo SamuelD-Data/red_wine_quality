@@ -13,6 +13,7 @@ https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 ## Goal
 
+- Identify variables that appear to have a notable impact on wine quality
 - Create a model that can effectively predict the general quality of a wine (good or bad)
 
 
