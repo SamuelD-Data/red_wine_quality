@@ -80,7 +80,7 @@ volatile acidity - The volatile acidity level of the wine. Too high of levels ca
     - Identify best model from validate phase and document performance
     - Use best model from validate phase on test set and document performance
 
-Conclusion
+- Conclusion
     - Summarize findings from project
 
 
